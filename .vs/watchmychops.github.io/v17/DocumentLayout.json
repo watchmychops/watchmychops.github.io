@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_posts\\2021-03-08-blog-post-title-from-file-name.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2021-03-08-blog-post-title-from-file-name.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_layouts\\post.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\post.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_includes\\sharelinks.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\sharelinks.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_includes\\navlinks.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\navlinks.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_includes\\head.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\head.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\archive.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:archive.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "post.html",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_layouts\\post.html",
+              "RelativeDocumentMoniker": "_layouts\\post.html",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_layouts\\post.html",
+              "RelativeToolTip": "_layouts\\post.html",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-24T13:58:01.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sharelinks.html",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_includes\\sharelinks.html",
+              "RelativeDocumentMoniker": "_includes\\sharelinks.html",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_includes\\sharelinks.html",
+              "RelativeToolTip": "_includes\\sharelinks.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-24T13:57:55.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "navlinks.html",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_includes\\navlinks.html",
+              "RelativeDocumentMoniker": "_includes\\navlinks.html",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_includes\\navlinks.html",
+              "RelativeToolTip": "_includes\\navlinks.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-24T13:57:54.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "head.html",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_includes\\head.html",
+              "RelativeDocumentMoniker": "_includes\\head.html",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_includes\\head.html",
+              "RelativeToolTip": "_includes\\head.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-24T13:57:51.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "archive.md",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\archive.md",
+              "RelativeDocumentMoniker": "archive.md",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\archive.md",
+              "RelativeToolTip": "archive.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-02-24T13:57:10.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\index.md",
+              "RelativeDocumentMoniker": "index.md",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\index.md",
+              "RelativeToolTip": "index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-02-24T13:57:06.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2021-03-08-blog-post-title-from-file-name.md",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_posts\\2021-03-08-blog-post-title-from-file-name.md",
+              "RelativeDocumentMoniker": "_posts\\2021-03-08-blog-post-title-from-file-name.md",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_posts\\2021-03-08-blog-post-title-from-file-name.md",
+              "RelativeToolTip": "_posts\\2021-03-08-blog-post-title-from-file-name.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-02-24T13:56:43.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_config.yml",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_config.yml",
+              "RelativeDocumentMoniker": "_config.yml",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\watchmychops\\watchmychops.github.io\\_config.yml",
+              "RelativeToolTip": "_config.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-02-18T15:31:54.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
